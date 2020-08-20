@@ -1,0 +1,2 @@
+# insurancetemplate
+GitHub Pages
