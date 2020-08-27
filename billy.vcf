@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Billy
+N:;Billy;;;
+item1.EMAIL;TYPE=INTERNET:billy.booknov@gmail.com
+item1.X-ABLabel:
+item2.TEL:+60 12-267 2631
+item2.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
